@@ -1,2 +1,4 @@
-# AppDeployToolkit_LanguageET
-Estonian localization for Application Deployment Toolkit &lt;!-- UI Messages - Estonian --> 
+# Application Deployment Toolkit in Estonian
+Estonian localization for Application Deployment Toolkit
+
+
