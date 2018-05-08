@@ -1,4 +1,4 @@
-		<!-- UI Messages - Estonian -->
+<!-- UI Messages - Estonian -->
 	<UI_Messages_ET>
 		<DiskSpace_Message>Kettal on liiga vähe ruumi, et paigaldada:
 		{0}
@@ -8,7 +8,7 @@
 
 		Paigalduse jätkumiseks vabastage palun kettaruumi.</DiskSpace_Message>
 		<ClosePrompt_ButtonContinue>Jätka</ClosePrompt_ButtonContinue>
-		<ClosePrompt_ButtonContinueTooltip>Vajuta "Jätka" alles pärast järgnevate rakendusede sulgemist.</ClosePrompt_ButtonContinueTooltip>
+		<ClosePrompt_ButtonContinueTooltip>Vajuta "Jätka" alles pärast järgnevate rakenduste sulgemist.</ClosePrompt_ButtonContinueTooltip>
 		<ClosePrompt_ButtonClose>Sulge rakendused</ClosePrompt_ButtonClose>
 		<ClosePrompt_ButtonDefer>Lükka edasi</ClosePrompt_ButtonDefer>>
 		<ClosePrompt_Message>Paigalduse jätkumiseks sulge järgmised rakendused.
@@ -17,7 +17,7 @@
 		Või salvesta oma töö ning vajuta "Sulge rakendused".
 		</ClosePrompt_Message>
 		<ClosePrompt_CountdownMessage>NB! Järgnevad rakendused sulguvad automaatselt:</ClosePrompt_CountdownMessage>
-		<DeferPrompt_WelcomeMessage>Alustame järgnevate rakendusede paigaldust:</DeferPrompt_WelcomeMessage>
+		<DeferPrompt_WelcomeMessage>Alustame järgnevate rakenduste paigaldust:</DeferPrompt_WelcomeMessage>
 		<DeferPrompt_ExpiryMessage>Võid paigaldust edasi lükata kuni:</DeferPrompt_ExpiryMessage>
 		<DeferPrompt_WarningMessage>Tähtaja saabumisel kaob edasi lükkamise võimalus.</DeferPrompt_WarningMessage>
 		<DeferPrompt_RemainingDeferrals>Edasi lükkamiste korrad:</DeferPrompt_RemainingDeferrals>
