@@ -1,4 +1,4 @@
-	<!-- UI Messages - Estonian -->
+		<!-- UI Messages - Estonian -->
 	<UI_Messages_ET>
 		<DiskSpace_Message>Kettal on liiga vähe ruumi, et paigaldada:
 		{0}
@@ -8,19 +8,19 @@
 
 		Paigalduse jätkumiseks vabastage palun kettaruumi.</DiskSpace_Message>
 		<ClosePrompt_ButtonContinue>Jätka</ClosePrompt_ButtonContinue>
-		<ClosePrompt_ButtonContinueTooltip>Vajuta "Jätka" alles pärast järgnevate programmide sulgemist.</ClosePrompt_ButtonContinueTooltip>
-		<ClosePrompt_ButtonClose>Sulge programmid</ClosePrompt_ButtonClose>
-		<ClosePrompt_ButtonDefer>Viivita</ClosePrompt_ButtonDefer>>
-		<ClosePrompt_Message>Paigalduse jätkumiseks sulge järgmised programmid.
+		<ClosePrompt_ButtonContinueTooltip>Vajuta "Jätka" alles pärast järgnevate rakendusede sulgemist.</ClosePrompt_ButtonContinueTooltip>
+		<ClosePrompt_ButtonClose>Sulge rakendused</ClosePrompt_ButtonClose>
+		<ClosePrompt_ButtonDefer>Lükka edasi</ClosePrompt_ButtonDefer>>
+		<ClosePrompt_Message>Paigalduse jätkumiseks sulge järgmised rakendused.
 		
-		Salvesta oma töö, sulge programmid ning jätka paigaldusega.
-		Või salvesta oma töö ning vajuta "Sulge programmid".
+		Salvesta oma töö, sulge rakendused ning jätka paigaldusega.
+		Või salvesta oma töö ning vajuta "Sulge rakendused".
 		</ClosePrompt_Message>
-		<ClosePrompt_CountdownMessage>NB! Järgnevad programmid sulguvad automaatselt:</ClosePrompt_CountdownMessage>
-		<DeferPrompt_WelcomeMessage>Alustame järgnevate programmide paigaldust:</DeferPrompt_WelcomeMessage>
-		<DeferPrompt_ExpiryMessage>Võid paigaldust viivitada kuni viimase tähtajani:</DeferPrompt_ExpiryMessage>
-		<DeferPrompt_WarningMessage>Tähtaja saabumisel kaob viivitus võimalus.</DeferPrompt_WarningMessage>
-		<DeferPrompt_RemainingDeferrals>Säilivad viivitused:</DeferPrompt_RemainingDeferrals>
+		<ClosePrompt_CountdownMessage>NB! Järgnevad rakendused sulguvad automaatselt:</ClosePrompt_CountdownMessage>
+		<DeferPrompt_WelcomeMessage>Alustame järgnevate rakendusede paigaldust:</DeferPrompt_WelcomeMessage>
+		<DeferPrompt_ExpiryMessage>Võid paigaldust edasi lükata kuni:</DeferPrompt_ExpiryMessage>
+		<DeferPrompt_WarningMessage>Tähtaja saabumisel kaob edasi lükkamise võimalus.</DeferPrompt_WarningMessage>
+		<DeferPrompt_RemainingDeferrals>Edasi lükkamiste korrad:</DeferPrompt_RemainingDeferrals>
 		<DeferPrompt_Deadline>Tähtaeg:</DeferPrompt_Deadline>
 
 		<WelcomePrompt_CountdownMessage>Tarkvara {0} paigaldus jätkab automaatselt:</WelcomePrompt_CountdownMessage>
@@ -37,9 +37,9 @@
 
 		<Progress_MessageInstall>Paigaldus on edenemisel. Palun oota...</Progress_MessageInstall>
 		<Progress_MessageUninstall>Eemaldus on edenemisel. Palun oota...</Progress_MessageUninstall>
-		<BlockExecution_Message>Selle programmi käivitamine on ajutiselt peatutud, et paigaldamisel olev programm saaks lõpetada.</BlockExecution_Message>
+		<BlockExecution_Message>Selle rakenduse käivitamine on ajutiselt peatutud, et paigaldamisel olev rakendus saaks lõpetada.</BlockExecution_Message>
 		<RestartPrompt_Title>Taaskäivita</RestartPrompt_Title>
-		<RestartPrompt_Message>Paigaldamise lõetamiseks on vaja arvuti taaskäivitada.</RestartPrompt_Message>
+		<RestartPrompt_Message>Paigalduse lõetamiseks on vaja arvuti taaskäivitada.</RestartPrompt_Message>
 		<RestartPrompt_MessageTime>Palun salvesta oma töö ja taaskäivita arvuti antud aja jooksul.</RestartPrompt_MessageTime>
 		<RestartPrompt_MessageRestart>Arvuti taaskäivitatakse automaatselt antud aja lõppemisel.</RestartPrompt_MessageRestart>
 		<RestartPrompt_TimeRemaining>Aega jäänud:</RestartPrompt_TimeRemaining>
